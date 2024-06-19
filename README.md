@@ -1,5 +1,5 @@
 本项目仓库为在OpenRLHF的基础上添加SimPO对齐算法
-按照原项目操作后，运行/openrlhf/examples/scripts/train_simpo_llama.sh 即可
+按照原项目操作后，运行./examples/scripts/train_simpo_llama.sh 即可
 
 原项目repo地址：https://github.com/OpenLLMAI/OpenRLHF
 -----------------------------------------------------------------------------------------------------------------------------------------------

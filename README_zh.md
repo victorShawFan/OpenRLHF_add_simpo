@@ -1,3 +1,15 @@
+本项目仓库为在OpenRLHF的基础上添加SimPO对齐算法
+按照原项目操作后，运行/openrlhf/examples/scripts/train_simpo_llama.sh 即可
+
+原项目repo地址：https://github.com/OpenLLMAI/OpenRLHF
+-----------------------------------------------------------------------------------------------------------------------------------------------
+The repository of this project is to modify OpenRLHF and add SimPO method. 
+After following the original project's instructions, you can run /openrlhf/examples/scripts/train_simpo_llama.sh.
+
+Original project repository: https://github.com/OpenLLMAI/OpenRLHF.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <div align="center">
 <p align="center">
 <img alt="" src="./docs/logo.png" style="display: inline-block; height: 160px" />

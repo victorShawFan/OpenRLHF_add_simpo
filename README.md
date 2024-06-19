@@ -4,10 +4,12 @@
 原项目repo地址：https://github.com/OpenLLMAI/OpenRLHF
 -----------------------------------------------------------------------------------------------------------------------------------------------
 The repository of this project is to modify OpenRLHF and add SimPO method. 
-After following the original project's instructions, you can run /openrlhf/examples/scripts/train_simpo_llama.sh.
+After following the original project's instructions, you can run ./examples/scripts/train_simpo_llama.sh.
 
 Original project repository: https://github.com/OpenLLMAI/OpenRLHF.
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <div align="center">
     <img alt="OpenRLHF logo" src="./docs/logo.png" style="height: 160px;" />
 </div>
